@@ -1,0 +1,19 @@
+{
+"articles": [
+{
+"id": 1,
+"title": "First rirle",
+"content": "First Content"
+},
+{
+"id": 2,
+"title": "Second rirle",
+"content": "Second Content"
+},
+{
+"id": 2,
+"title": "Third rirle",
+"content": "Third Content"
+}
+]
+}
